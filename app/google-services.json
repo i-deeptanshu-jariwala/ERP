@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952565020131",
+    "firebase_url": "https://erpfirebaseproject-da94d.firebaseio.com",
+    "project_id": "erpfirebaseproject-da94d",
+    "storage_bucket": "erpfirebaseproject-da94d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952565020131:android:0a2a2064b278a69f",
+        "android_client_info": {
+          "package_name": "com.example.deept.erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952565020131-gvthvm3qc647eh979tu0gblm5ga5dtjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deept.erp",
+            "certificate_hash": "24bd5aa0549f8467da57e615556614d3a568cfe0"
+          }
+        },
+        {
+          "client_id": "952565020131-gs9ecchjd4vo88fob8pck58c33p7777k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpx_vS3v8o4Bd6V0FE2NcBQTsMhyVrU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952565020131-gs9ecchjd4vo88fob8pck58c33p7777k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
